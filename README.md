@@ -1,5 +1,7 @@
 # Defects4j presentation Urls
 
+A more accessible version of this list is available here: http://program-repair.org/defects4j-dissection/
+
 ## Chart 
  Bug id | Buggy | Fixed | Diff 
 --------|-------|-------|------
